@@ -10,7 +10,7 @@ on:
       pnpm-version:
         required: false
         type: string
-        default: "11.0.6"
+        default: "11.9.0"
       dist-path:
         required: false
         type: string
